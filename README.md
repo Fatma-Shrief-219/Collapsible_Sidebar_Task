@@ -17,7 +17,7 @@ This is a simple and responsive collapsible sidebar project built using **HTML, 
 
 ## 🖼️ Preview
 
-![screenshot](screenshott.png)
+![screenshot](Screenshott.png)
 
 ## 🚀 How to Use
 
