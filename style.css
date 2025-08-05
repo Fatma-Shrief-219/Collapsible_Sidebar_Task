@@ -50,7 +50,7 @@
     display: none;
   }
 }
-/* المحتوى الرئيسي */
+
 .main-content {
   margin-left: 270px;
   padding: 40px;
@@ -75,12 +75,6 @@
   font-size: 16px;
   cursor: pointer;
   border-radius: 6px;
-}
-
-.main-image {
-  margin-top: 30px;
-  max-width: 100%;
-  border-radius: 10px;
 }
 
 
